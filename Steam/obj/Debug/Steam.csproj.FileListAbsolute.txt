@@ -1,0 +1,35 @@
+C:\Users\kona\documents\visual studio 2015\Projects\Steam\Steam\bin\Debug\Steam.exe
+C:\Users\kona\documents\visual studio 2015\Projects\Steam\Steam\bin\Debug\Steam.pdb
+C:\Users\kona\documents\visual studio 2015\Projects\Steam\Steam\obj\Debug\Steam.csprojResolveAssemblyReference.cache
+C:\Users\kona\documents\visual studio 2015\Projects\Steam\Steam\obj\Debug\Steam.LoginForm.resources
+C:\Users\kona\documents\visual studio 2015\Projects\Steam\Steam\obj\Debug\Steam.Properties.Resources.resources
+C:\Users\kona\documents\visual studio 2015\Projects\Steam\Steam\obj\Debug\Steam.csproj.GenerateResource.Cache
+C:\Users\kona\documents\visual studio 2015\Projects\Steam\Steam\obj\Debug\Steam.exe
+C:\Users\kona\documents\visual studio 2015\Projects\Steam\Steam\obj\Debug\Steam.pdb
+C:\Users\kona\documents\visual studio 2015\Projects\Steam\Steam\obj\Debug\Steam.MainForm.resources
+C:\Users\kona\documents\visual studio 2015\Projects\Steam\Steam\bin\Debug\HtmlAgilityPack.dll
+C:\Users\kona\documents\visual studio 2015\Projects\Steam\Steam\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\kona\documents\visual studio 2015\Projects\Steam\Steam\bin\Debug\HtmlAgilityPack.xml
+C:\Users\kona\documents\visual studio 2015\Projects\Steam\Steam\bin\Debug\Steam.exe.config
+C:\Users\kona\documents\visual studio 2015\Projects\Steam\Steam\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kona\documents\visual studio 2015\Projects\Steam\Steam\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kona\Documents\Visual Studio 2015\Projects\Steam\Steam\obj\Debug\Steam.Auto.resources
+C:\Users\jihoon\Desktop\USB\복사본\Projects\Steam\Steam\bin\Debug\Steam.exe.config
+C:\Users\jihoon\Desktop\USB\복사본\Projects\Steam\Steam\obj\Debug\Steam.exe
+C:\Users\jihoon\Desktop\USB\복사본\Projects\Steam\Steam\obj\Debug\Steam.pdb
+E:\USB\복사본\Projects\Steam\Steam\bin\Debug\Steam.exe.config
+E:\USB\복사본\Projects\Steam\Steam\obj\Debug\Steam.exe
+E:\USB\복사본\Projects\Steam\Steam\obj\Debug\Steam.pdb
+E:\USB\복사본\Projects\Steam\Steam\obj\Debug\Steam.csprojResolveAssemblyReference.cache
+E:\USB\복사본\Projects\Steam\Steam\obj\Debug\Steam.MainForm.resources
+E:\USB\복사본\Projects\Steam\Steam\obj\Debug\Steam.Properties.Resources.resources
+E:\USB\복사본\Projects\Steam\Steam\obj\Debug\Steam.csproj.GenerateResource.Cache
+E:\USB\복사본\Projects\Steam\Steam\bin\Debug\Steam.exe
+E:\USB\복사본\Projects\Steam\Steam\bin\Debug\Steam.pdb
+E:\USB\복사본\Projects\Steam\Steam\bin\Debug\HtmlAgilityPack.dll
+E:\USB\복사본\Projects\Steam\Steam\bin\Debug\Newtonsoft.Json.dll
+E:\USB\복사본\Projects\Steam\Steam\bin\Debug\WebDriver.dll
+E:\USB\복사본\Projects\Steam\Steam\bin\Debug\HtmlAgilityPack.pdb
+E:\USB\복사본\Projects\Steam\Steam\bin\Debug\HtmlAgilityPack.xml
+E:\USB\복사본\Projects\Steam\Steam\bin\Debug\Newtonsoft.Json.xml
+E:\USB\복사본\Projects\Steam\Steam\bin\Debug\WebDriver.xml
